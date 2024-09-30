@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tamimahsansami
+- 👋 Hi, I’m Tamim Ahsan Sami
 - 👀 I’m interested in ML
 - 🌱 I’m currently learning Python Libraries
 - 💞️ I’m looking to collaborate on ML companies
