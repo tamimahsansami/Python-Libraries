@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @tamimahsansami
 - 👀 I’m interested in ML
 - 🌱 I’m currently learning Python Libraries
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on ML companies
+- 📫 Reach me on www.linkedin.com/in/tamim-ahsan-sami-220886272
+- 😄 Pronouns: Sami
+
 
 <!---
 tamimahsansami/tamimahsansami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
